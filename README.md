@@ -3,7 +3,7 @@ This project allows you to find the nearest Nasa facilities near you and display
 
 ![pic](pic.jpg)
 
-Link to project:
+Link to project:https://rakimdevcraig.github.io/nasaFacilities/
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript, jQuery, API's
